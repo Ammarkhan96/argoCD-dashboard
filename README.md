@@ -20,5 +20,5 @@ This repository documents the setup of:
 | GitHub           | Manifest storage and versioning     |
 
 ---
-> 📦 All manifest files and kubectl commands used in this project are available in [**this GitHub repo → `Ammarkhan96/k8s-kind-app`**](https://github.com/Ammarkhan96/k8s-kind-app)
+> 📦 All manifest files and kubectl commands used in this project are available in [**this GitHub repo → `Ammarkhan96/k8s-kind-app`**](https://github.com/Ammarkhan96/k8s-kind-voting-app)
 
